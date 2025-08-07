@@ -1,3 +1,8 @@
+Name :Gurnoor singh
+Branch :IT (information technology) 
+I have joined Guru Nanak Dev Engineering College (GNDEC), Ludhiana  
+ I’m excited to begin this new journey, learn new skills, and grow in the IT field. 
+ 
 #Day 1: A Grand Beginning
 
 The Induction Programme commenced at 8:30 AM with blessings from the Gurudwara Sahib, creating a spiritual and peaceful start. By 9:30 AM, we were welcomed with refreshments.
@@ -79,6 +84,49 @@ Multi Gyan Peth & Asian Excellence Award Winner
 Session Highlights:
 
 Dr. Singh blended science, mathematics, and spirituality, motivating students to adopt a disciplined learning routine.
+Lecture 2: Universal Human Values
+Speaker: Priya Ma’am
+
+Core Theme:
+Understanding and aligning one’s life with the Basic Aspiration — continuous happiness and prosperity — rather than chasing disconnected short-term goals.
+
+Activity Reflection:
+Participants reviewed personal aspirations (चाहना) and concerns (चिंता). A common pattern emerged:
+
+Aspirations:
+
+Academic excellence
+Good job with high salary
+Family pride and personal happiness
+Concerns:
+
+Peer pressure
+Lack of confidence
+Time constraints
+Stage fear
+Lack of discipline
+The "Why?" Chain of Reflection:
+What are you doing? → e.g., Studying hard
+Why? → To become an engineer
+Why? → To earn money and respect
+Why? → To be happy and prosperous
+This reflective chain led to the realization that:
+
+All efforts ultimately aim at achieving lasting happiness and prosperity.
+
+Life Planning Approaches:
+Linear (1 → 2 → 3 → 4): Acting without deeper clarity of purpose
+Reverse (4 → 3 → 2 → 1): Starting with clarity of aspiration, then planning steps
+The reverse approach was emphasized as more effective and resilient during setbacks (e.g., failing to get into a dream college or not getting a preferred roommate).
+
+Key Takeaways:
+Understand your Basic Aspiration clearly
+View career and academic achievements as means, not the end
+If one path fails, find another without losing purpose
+Reflect on past disappointments to evaluate your reaction and growth
+Assignment:
+Reflect on whether continuous happiness and prosperity is your true aspiration
+Recall a moment when a desired path closed and analyze your response
 
 Day 4:
 
