@@ -1,10 +1,10 @@
-Day 1: A Grand Beginning
+#Day 1: A Grand Beginning
 
 The Induction Programme commenced at 8:30 AM with blessings from the Gurudwara Sahib, creating a spiritual and peaceful start. By 9:30 AM, we were welcomed with refreshments.
 
 At 10:00 AM, the formal ceremony began in the college auditorium, celebrating GNDEC’s 70 years of excellence.
 
-Key Speeches and Highlights
+#Key Speeches and Highlights
 
 Dr. Harpreet Kaur Grewal (Head of Applied Sciences)
 
