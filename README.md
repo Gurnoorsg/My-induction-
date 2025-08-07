@@ -139,3 +139,32 @@ The sixth day of our induction program began with a Mathematics lecture. Our reg
 The next lecture was a change from the regular schedule. We had a P2P (Peer-to-Peer) session conducted by our seniors. In this session, they taught us about for loops and if-else statements in C++ programming. Their explanation was clear and included step-by-step examples, which made the concepts easy to understand. After this session, we had our regular break.
 
 Post-break, we all assembled in the auditorium where a college trustee delivered an inspiring motivational speech. He emphasized the importance of hard work, discipline, and making the most of the opportunities offered by the college. After his speech, a professor came and gave us important details about the CML program. He also introduced us to the NPTEL website, which provides free online courses and certifications.
+
+Induction Day 7 Report
+
+The seventh day of the induction program began with a session in the college auditorium. The speakers provided detailed information about the various scholarships and facilities available to students. This session was very informative and helped everyone understand how to access financial and academic support.
+
+After that, a faculty member introduced the Digital Marketing Program. The session covered the basics of digital marketing, its growing importance in the modern world, and how students can explore it as a potential career option. The session was engaging and gave new insight into fields beyond engineering.
+
+Later, another professor gave an overview of the examination process. Important points such as the exam pattern, rules, grading system, and attendance requirements were discussed. This helped us understand how the academic evaluation will be conducted throughout the course.
+
+After a short break, a Chemistry lecture was held. The professor explained the syllabus and covered a few introductory topics, giving us a head start in the subject. The session was clear and easy to follow.
+
+Finally, we had a Mathematics lecture. We learned some important formulas and concepts that will be useful in upcoming classes. Overall, the day was well-organized and very informative.
+
+
+---
+
+Key Points of Day 7:
+
+Session on college scholarships and student facilities
+
+Introduction to the Digital Marketing Program
+
+Explanation of the examination process and rules
+
+Chemistry lecture covering syllabus and basic topics
+
+Mathematics lecture focusing on important formulas
+
+Productive and informative day for all students
