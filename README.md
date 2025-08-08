@@ -217,3 +217,13 @@ Chemistry lecture covering syllabus and basic topics
 Mathematics lecture focusing on important formulas
 
 Productive and informative day for all students
+
+# Day 8 Induction Report
+
+The eighth day of my induction program began with our very first BEE (Basic Electrical Engineering) lecture. Our ma’am introduced us to the basics of electronic devices and provided an overview of the syllabus for this subject. She also guided us on which types of books we should prefer for better understanding and long-term learning. Her advice on selecting the right study material will be very helpful throughout the semester.
+
+After this interesting and informative lecture, we proceeded to the TCC Seminar Hall. Here, we were asked to provide our Aadhaar card details as part of the process for college ID card formation. The procedure was organized and quick, ensuring that all students completed the requirement without difficulty.
+
+Since the documentation process did not take much time, our classes ended earlier than usual. Although it was a shorter day, it was still productive. We gained knowledge about a new subject, understood its syllabus, and also completed an important step towards receiving our official college ID card.
+
+Overall, Day 8 was a mix of academic learning and administrative work, contributing to both our studies and campus life.
