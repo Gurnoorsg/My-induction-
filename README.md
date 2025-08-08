@@ -84,7 +84,8 @@ Multi Gyan Peth & Asian Excellence Award Winner
 Session Highlights:
 
 Dr. Singh blended science, mathematics, and spirituality, motivating students to adopt a disciplined learning routine.
-Lecture 2: Universal Human Values
+
+# Lecture 2: Universal Human Values
 Speaker: Priya Ma’am
 
 Core Theme:
@@ -119,7 +120,7 @@ Linear (1 → 2 → 3 → 4): Acting without deeper clarity of purpose
 Reverse (4 → 3 → 2 → 1): Starting with clarity of aspiration, then planning steps
 The reverse approach was emphasized as more effective and resilient during setbacks (e.g., failing to get into a dream college or not getting a preferred roommate).
 
-Key Takeaways:
+## Key Takeaways:
 Understand your Basic Aspiration clearly
 View career and academic achievements as means, not the end
 If one path fails, find another without losing purpose
@@ -135,7 +136,7 @@ The fourth day of the Induction Programme was designed to help us become more fa
 
 ---
 
-Activities Conducted
+## Activities Conducted
 
 Orientation session with faculty members
 
@@ -155,7 +156,7 @@ Student talent showcase, highlighting creativity and confidence
 
 ---
 
-My Experience
+## My Experience
 
 The day was insightful and energizing. I gained a better understanding of the academic structure, different departments, and the facilities provided by the college.
 
@@ -166,11 +167,11 @@ I especially enjoyed the team-building activities, which improved my communicati
 
 ---
 
-Conclusion
+## Conclusion
 
 Day 4 of the induction programme was a well-rounded experience. It not only provided useful academic insights but also focused on our physical, mental, and emotional well-being. The welcoming and inclusive environment made me feel more connected to GNDEC. I am excited about the journey ahead and look forward to growing through such engaging initiatives.
 
-Induction Day 5 Report
+# Induction Day 5 Report
 
 The fifth day of the induction program started with a Peer-to-Peer (P2P) session conducted by our seniors. They guided us through the basics of C++ programming and explained important syntax in a simple and effective way. It was a friendly and interactive session, and we felt comfortable asking questions. Learning directly from seniors made the experience even more relatable and engaging.
 
@@ -180,7 +181,7 @@ Our next lecture was supposed to be a Mathematics class, but the regular math te
 
 Overall, the day was filled with new experiences, helpful insights from seniors, and introductions to new faculty members. I’m looking forward to more engaging sessions in the coming days.
 
-Induction Day 6 Report
+# Induction Day 6 Report
 
 The sixth day of our induction program began with a Mathematics lecture. Our regular Math Sir joined us and continued sharing useful knowledge. He revised some basic concepts and once again discussed three helpful mobile or web applications that we can use in future classes. These apps will assist us in creating 2D and 3D graphs, making it easier to visualize and understand complex math problems.
 
@@ -188,7 +189,7 @@ The next lecture was a change from the regular schedule. We had a P2P (Peer-to-P
 
 Post-break, we all assembled in the auditorium where a college trustee delivered an inspiring motivational speech. He emphasized the importance of hard work, discipline, and making the most of the opportunities offered by the college. After his speech, a professor came and gave us important details about the CML program. He also introduced us to the NPTEL website, which provides free online courses and certifications.
 
-Induction Day 7 Report
+# Induction Day 7 Report
 
 The seventh day of the induction program began with a session in the college auditorium. The speakers provided detailed information about the various scholarships and facilities available to students. This session was very informative and helped everyone understand how to access financial and academic support.
 
@@ -203,7 +204,7 @@ Finally, we had a Mathematics lecture. We learned some important formulas and co
 
 ---
 
-Key Points of Day 7:
+## Key Points of Day 7:
 
 Session on college scholarships and student facilities
 
