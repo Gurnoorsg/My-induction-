@@ -3,13 +3,13 @@ Branch :IT (information technology)
 I have joined Guru Nanak Dev Engineering College (GNDEC), Ludhiana  
  I’m excited to begin this new journey, learn new skills, and grow in the IT field. 
  
-#Day 1: A Grand Beginning
+# Day 1: A Grand Beginning
 
 The Induction Programme commenced at 8:30 AM with blessings from the Gurudwara Sahib, creating a spiritual and peaceful start. By 9:30 AM, we were welcomed with refreshments.
 
 At 10:00 AM, the formal ceremony began in the college auditorium, celebrating GNDEC’s 70 years of excellence.
 
-#Key Speeches and Highlights
+# Key Speeches and Highlights
 
 Dr. Harpreet Kaur Grewal (Head of Applied Sciences)
 
@@ -43,7 +43,7 @@ Guest Session
 
 Gained awareness about financial literacy and VijayLaxmi education loans.
 
-Day 2: Evaluation and Empowerment
+# Day 2: Evaluation and Empowerment
 
 The day began with an English and Mathematics test, helping assess our current knowledge levels.
 
@@ -55,14 +55,14 @@ Lecture by Arashdeep Singh
 
 He highlighted the importance of proper nutrition in student life and its direct effect on energy, focus, and productivity.
 
-Activity Tutorials
+## Activity Tutorials
 
 The second half of the day included interactive tutorials, encouraging team spirit and creative thinking.
 
 
 ---
 
-Day 3: Inspiration through Experience
+# Day 3: Inspiration through Experience
 
 Date: Saturday
 Time: 9:00 AM onwards
@@ -128,7 +128,7 @@ Assignment:
 Reflect on whether continuous happiness and prosperity is your true aspiration
 Recall a moment when a desired path closed and analyze your response
 
-Day 4:
+# Day 4:
 
 The fourth day of the Induction Programme was designed to help us become more familiar with the college environment, understand academic departments, and build strong peer relationships. The initiative aimed to ease our transition into college life through guided sessions, activities, and motivational talks.
 
